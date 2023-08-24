@@ -1,0 +1,11 @@
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\bin\Debug\Programacion_Orientada_Eventos.exe.config
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\bin\Debug\Programacion_Orientada_Eventos.exe
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\bin\Debug\Programacion_Orientada_Eventos.pdb
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.csproj.AssemblyReference.cache
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.Laboratorio2.Tarea2.Fruteria.resources
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.Properties.Resources.resources
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.csproj.GenerateResource.cache
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.exe
+C:\Users\ACEDIM 10\source\reposVisual\Programacion_Orientada_Eventos\obj\Debug\Programacion_Orientada_Eventos.pdb
